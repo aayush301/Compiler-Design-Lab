@@ -1,5 +1,4 @@
-// Write a program to design Finite Automata that accepts all strings ending with “ing”,
-// over ∑= a to z. (example “anything”, “something”, “nothing”, etc.)
+// Write a program to design Finite Automata that accepts all strings ending with “ing”, over ∑= a to z. (example “anything”, “something”, “nothing”, etc.)
 
 #include<iostream>
 #include<vector>
