@@ -84,7 +84,6 @@ class DFA
 int main()
 {
 	
-	cout<<"\n----------- Aayush 2K19/CO/009 -----------\n";
 	cout<<"DFA to accept all strings ending with 'ing'\n\n";
 	
 	
