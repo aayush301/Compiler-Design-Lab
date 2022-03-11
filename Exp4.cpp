@@ -134,7 +134,6 @@ string readFile()
 
 int main()
 {
-	cout << "\n----------- Aayush 2K19/CO/009 -----------\n";
 
 	string str = readFile();
 	cout << "The no. of tokens (keywords and identifiers) in the program are: ";
