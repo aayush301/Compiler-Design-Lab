@@ -15,7 +15,6 @@ bool isComment(string str)
 
 int main()
 {
-	cout<<"\n----------- Aayush 2K19/CO/009 -----------\n";
 	string str;
 	cout<<"Enter line:\n";
 	cin>>str;
