@@ -22,7 +22,6 @@ bool isValidIdentifier(string str)
 
 int main()
 {
-	cout<<"\n----------- Aayush 2K19/CO/009 -----------\n";
 	cout<<"--- To check whether a given identifier is valid or not ---\n\n";
 	
 	string str;
