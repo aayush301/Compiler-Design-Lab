@@ -170,7 +170,6 @@ void printTokenList(vector<vector<string>> &tokenList)
 
 int main()
 {
-  cout << "\n----------- Aayush 2K19/CO/009 -----------\n";
 
   string str = readFile();
   cout << "Tokens in the program are:\n\n";
