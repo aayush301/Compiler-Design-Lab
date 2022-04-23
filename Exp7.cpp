@@ -123,7 +123,6 @@ void printFIRST(map<char, set<char>> &mp)
 
 int main()
 {
-  cout << "\n----------- Aayush 2K19/CO/009 -----------\n";
 
   auto p = readFile();
   char startSymbol = p.first;
