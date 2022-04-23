@@ -274,7 +274,6 @@ void printDFA(DFA &dfa)
 
 int main()
 {
-  cout << "\n----------- Aayush 2K19/CO/009 -----------\n";
   cout << "---Conversion of epsilon-NFA to DFA---\n";
   cout << "---Note: Epsilon has been denoted by $ in this program---\n\n";
 
